@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Residência">
+  <path d="M17 64 64 20l47 44" fill="none" stroke="#071d30" stroke-width="19" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M17 64 64 20l47 44" fill="none" stroke="#098af4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 61 64 29l37 32v49H27z" fill="#fff" stroke="#071d30" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M82 32V18h17v30" fill="#e6e9ef" stroke="#071d30" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M80 18h21" stroke="#058bea" stroke-width="7" stroke-linecap="round"/>
+  <path d="M17 64 64 20l47 44" fill="none" stroke="#008bf7" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="35" y="70" width="23" height="23" rx="3" fill="#62cfff" stroke="#071d30" stroke-width="5"/>
+  <path d="M46.5 72v19M37 81.5h19" stroke="#071d30" stroke-width="3"/>
+  <rect x="70" y="70" width="23" height="23" rx="3" fill="#62cfff" stroke="#071d30" stroke-width="5"/>
+  <path d="M81.5 72v19M72 81.5h19" stroke="#071d30" stroke-width="3"/>
+  <rect x="55" y="79" width="18" height="31" rx="3" fill="#be672a" stroke="#071d30" stroke-width="4"/>
+  <circle cx="68" cy="96" r="2.5" fill="#ffc529"/>
+  <rect x="46" y="107" width="36" height="7" rx="3" fill="#d1d8e1" stroke="#071d30" stroke-width="3"/>
+  <path d="M15 115h99" stroke="#56b922" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="24" cy="107" r="10" fill="#63c629" stroke="#153f20" stroke-width="3"/>
+  <circle cx="104" cy="107" r="10" fill="#63c629" stroke="#153f20" stroke-width="3"/>
+</svg>
